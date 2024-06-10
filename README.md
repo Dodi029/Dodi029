@@ -15,7 +15,7 @@
 <div align=center>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chlcjw3)](https://solved.ac/chlcjw3)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Dodi029)](https://solved.ac/chlcjw3)
       
 <h3> 🙌 Introduce 🙌 </h3>
 <b> 안녕하세요 최재완입니다. 코틀린 네이티브 언어를 활용한 안드로이드 앱 개발 직무로의 취직을 준비중입니다. </b>    
