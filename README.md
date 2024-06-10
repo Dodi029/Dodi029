@@ -10,7 +10,7 @@
 -->
 
 <!-- 메인 배너 -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&fontColor=auto&height=300&text=DOYOUNG%20LEE&fontSize=65&animation=fadeIn&rotate=19&fontAlign=66&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=slice&color=87cefa&fontColor=auto&height=300&text=DOYOUNG%20LEE&fontSize=65&animation=fadeIn&rotate=19&fontAlign=66&fontAlignY=40)
 
 <div align=center>
 
