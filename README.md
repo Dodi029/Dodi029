@@ -26,8 +26,6 @@
       
 <br>
       
-<img alt="Adobe Premiere Pro" src ="https://img.shields.io/badge/Adobe Premiere Pro-9999FF.svg?&style=plastic&logo=AdobePremierePro&logoColor=white"/> <img alt="Adobe Photoshop" src ="https://img.shields.io/badge/AdobePhotoshop-31A8FF.svg?&style=plastic&logo=Adobe Photoshop&logoColor=white"/>
-      
 <h3> 🙄 A little bit... 🙄 </h3> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=plastic&logo=JavaScript&logoColor=white&"/> <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=plastic&logo=React&logoColor=white"/>  
       
 <br>
