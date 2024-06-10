@@ -25,14 +25,13 @@
 <h3> ✍ Tech Stack ✍ </h3> <img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=plastic&logo=Kotlin&logoColor=white"/>
       
 <br>
-      
-<h3> 🙄 A little bit... 🙄 </h3> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=plastic&logo=JavaScript&logoColor=white&"/> <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=plastic&logo=React&logoColor=white"/>  
-      
+<!--   
+<h3> 🙄 A little bit... 🙄 </h3> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=plastic&logo=JavaScript&logoColor=white&"/> <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=plastic&logo=React&logoColor=white"/>    
 <br>
+-->
       
 <h3> 🐱‍🏍 I've used.. 🐱‍🏍 </h3>
-<a href="https://github.com/Jae-wan"><img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
-<a href="https://timradder.tistory.com"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-FFBC36.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/>
+<a href="https://github.com/Dodi029"><img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
 <a href="www.notion.so/jjangdeuk"><img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/> <br>
 
 <br>
