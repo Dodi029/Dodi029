@@ -13,16 +13,16 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=87cefa&fontColor=auto&height=300&text=DOYOUNG%20LEE&fontSize=65&animation=fadeIn&rotate=19&fontAlign=66&fontAlignY=40)
 
 <div align=center>
-
+<!-- 프로필 랭크
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Dodi029)](https://solved.ac/chlcjw3)
-      
+-->
 <h3> 🙌 Introduce 🙌 </h3>
-<b> 안녕하세요 최재완입니다. 코틀린 네이티브 언어를 활용한 안드로이드 앱 개발 직무로의 취직을 준비중입니다. </b>    
+<b> 안녕하세요 이도영입니다. 코틀린 언어를 사용하며 MVVM 패턴을 활용한 안드로이드 앱 개발 직무로의 취직을 준비중입니다. </b>    
 <br>
 <br>
       
-<h3> ✍ Tech Stack ✍ </h3> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=plastic&logo=Python&logoColor=white"/> <img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=plastic&logo=Kotlin&logoColor=white"/> <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=plastic&logo=HTML5&logoColor=white"/> <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=plastic&logo=CSS3&logoColor=white"/>
+<h3> ✍ Tech Stack ✍ </h3> <img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=plastic&logo=Kotlin&logoColor=white"/>
       
 <br>
       
