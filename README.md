@@ -36,13 +36,13 @@
 
 <br>
 
-Email : chlcjw3@naver.com <br>
+Email : doyo0529@tukorea.ac.kr <br>
 
 <br>
 <br>
 
 <!-- github 커밋 수 등 통계 --> <!-- most used languages -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jae-wan&show_icons=true&text_color=ffffff&theme=material-palenight&border_radius=20&line_height=40&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dodi029&show_icons=true&text_color=ffffff&theme=material-palenight&border_radius=20&line_height=40&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jae-wan&border_color=ffffff&title_color=c792ea&text_color=ffffff&bg_color=292d3e&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
 
 
