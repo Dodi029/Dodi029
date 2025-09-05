@@ -1,13 +1,3 @@
-<!--
-      ## 참고한 사이트##
-메인 배너 : https://github.com/kyechan99/capsule-render
-각종 뱃지 : Shields.io 랑 Simple Icons 참고해서 뱃지, 뱃지아이콘 넣어줘야함
-방문자 수 뱃지 : https://hits.seeyoufarm.com/
-통계 카드 : https://github.com/anuraghazra/github-readme-stats
-백준 티어 : https://github.com/mazassumnida/mazassumnida
-                  => 백준은 왜 안되는걸까..
-
--->
 
 <!-- 메인 배너 -->
 ![header](https://capsule-render.vercel.app/api?type=slice&color=87cefa&fontColor=auto&height=300&text=DOYOUNG%20LEE&fontSize=65&animation=fadeIn&rotate=19&fontAlign=66&fontAlignY=40)
@@ -18,7 +8,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Dodi029)](https://solved.ac/chlcjw3)
 -->
 <h3> 🙌 Introduce 🙌 </h3>
-<b> 안녕하세요 이도영입니다. 코틀린 언어를 사용하며 MVVM 패턴을 활용한 안드로이드 앱 개발 직무로의 취직을 준비중입니다. </b>    
+<b> 데이터를 근거로 우선순위를 정하고, UX 흐름을 설계해 팀을 움직여 결과를 만드는 PM </b>    
 <br>
 <br>
       
